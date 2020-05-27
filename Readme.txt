@@ -1,0 +1,1 @@
+This application displays time of various places. Many of the basic concepts in flutter can be seen implemented here. 
